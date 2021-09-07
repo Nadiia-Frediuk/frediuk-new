@@ -1,5 +1,45 @@
-.background-image {
-width: 100%; }
+
+.header-img {
+    height: 727px;
+    background-image: url(img/vova.png) ;
+    padding-bottom: 0px;
+    background-attachment: scroll;
+    background-position: right center;
+    position: relative;
+    transform: translateY(57px);
+   
+}
+.banner {
+    max-width: 250px;
+    width: 250px;
+    height: auto;
+    display: block;
+    margin-right: 15px;
+    color: #ffffff;
+    font-weight: 600;
+    box-sizing: content-box;
+}
+h1 {
+    font-size: 82px;
+    text-align: left;
+    color: whitesmoke;
+    display: block;
+    padding: 24px 0 24px 0;
+    letter-spacing: 1px;
+    font-family: 'Roboto',Arial,sans-serif; 
+    box-sizing: content-box;
+
+}
+.navbar-brand {
+    position: left;
+}
+.navbar-nav {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    width: 100%;
+    
+}
 
 .coaching {
     
