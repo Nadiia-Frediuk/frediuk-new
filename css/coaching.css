@@ -1,0 +1,14 @@
+.header-img {
+    height: 727px;
+    background-image: url(img/coach_site\ \(1\).jpg) 
+    
+}
+.text-team {
+    text-align: center;
+    color: black; 
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 1.23;
+    margin-bottom: 40px;
+    display: block;
+}
